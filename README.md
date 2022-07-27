@@ -1,6 +1,6 @@
-# SoJoinerV3
+# SoJoiner
 Only SonOyuncu Launcher
-VirusTotal: https://www.virustotal.com/gui/file...dd0679a131732baedd846a2da37f52208b6?nocache=1
+Meraklısı İçin VirusTotal: https://www.virustotal.com/gui/file...dd0679a131732baedd846a2da37f52208b6?nocache=1
 
 TR
 
